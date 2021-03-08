@@ -1,0 +1,21 @@
+.cardBody h5 {
+    font-size: .95rem;
+    margin-bottom: 5px;
+}
+
+.cardBody h6 {
+    font-size: .5rem;
+}
+
+.cardBody p {
+    font-size: .75rem;
+}
+
+.cardImage {
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    width: 200px;
+    height: 100px;
+    align-items: center;
+}
